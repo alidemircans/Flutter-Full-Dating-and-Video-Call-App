@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23781903614",
+    "firebase_url": "https://missyoucodecanyon.firebaseio.com",
+    "project_id": "missyoucodecanyon",
+    "storage_bucket": "missyoucodecanyon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23781903614:android:c3fc6ff9d173b160b769af",
+        "android_client_info": {
+          "package_name": "com.missyou.findlove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23781903614-pn1eualrufdsr3ek4p7usr5g8331dne3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.missyou.findlove",
+            "certificate_hash": "abae384bde78c3cffcb5339d0f37c0656e297526"
+          }
+        },
+        {
+          "client_id": "23781903614-t1uhl3vhfa0d1b7jhlglv2shlvlvmc10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRZejIawnxBO-pthygEUwetqUSVLQEzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23781903614-t1uhl3vhfa0d1b7jhlglv2shlvlvmc10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
